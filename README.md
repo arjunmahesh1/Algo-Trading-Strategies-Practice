@@ -7,3 +7,4 @@ Mean Reversion and Stationarity:
 > - ADF Test
 > - Hurst Exponent
 > - Variance Ratio Test
+> - Half-Life of Mean Reversion
