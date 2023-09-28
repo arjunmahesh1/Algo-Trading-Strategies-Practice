@@ -26,3 +26,12 @@ _Utilizes EWA and EWC ETF historical data from NASDAQ, IGE ETF data for 3-way_
 > - Johansen Test
 > - 3-Way Cointegration Johansen Test
 > - Backtesting a Linear Mean-Reverting Strategy on a Portfolio (best eigen)
+
+
+#### Trading Pairs Comparison:  
+_Utilizes USO and GLD historical data from NASDAQ_
+> Compared:
+> - Spread (Strategy + Returns)
+> - Log Spread (Strategy + Returns)
+> - Ratio (Strategy + Returns)
+> - + Final statistics for each (Sharpe + APR)
