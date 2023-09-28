@@ -26,6 +26,7 @@ _Utilizes EWA and EWC ETF historical data from NASDAQ, IGE ETF data for 3-way_
 > - Johansen Test
 > - 3-Way Cointegration Johansen Test
 > - Backtesting a Linear Mean-Reverting Strategy on a Portfolio (best eigen)
+> - Kalman Filter + Kalman Strategy
 
 
 #### Trading Pairs Comparison:  
