@@ -18,3 +18,8 @@ Impractical Assumptions:
  - Unlimited capital (no maximum imposed on portfolio market value)
  - No transaction costs
  - Look-ahead bias (half_life extracted from in-sample data in 'Mean Reversion and Stationarity')
+
+#### Cointegration:
+_Utilizes EWA and EWC ETF historical data from NASDAQ_
+> Tests Demonstrated:
+> - CADF Test
