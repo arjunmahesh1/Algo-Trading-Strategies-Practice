@@ -20,7 +20,7 @@ Impractical Assumptions:
  - Look-ahead bias (half_life extracted from in-sample data in 'Mean Reversion and Stationarity')
 
 #### Cointegration:
-_Utilizes EWA and EWC ETF historical data from NASDAQ_
+_Utilizes EWA and EWC ETF historical data from NASDAQ, IGE ETF data for 3-way_
 > Tests Demonstrated:
 > - CADF Test
 > - Johansen Test
