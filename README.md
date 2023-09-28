@@ -23,3 +23,5 @@ Impractical Assumptions:
 _Utilizes EWA and EWC ETF historical data from NASDAQ_
 > Tests Demonstrated:
 > - CADF Test
+> - Johansen Test
+> - 3-Way Cointegration Johansen Test
