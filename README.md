@@ -35,3 +35,9 @@ _Utilizes USO and GLD historical data from NASDAQ_
 > - Log Spread (Strategy + Returns)
 > - Ratio (Strategy + Returns)
 > - + Final statistics for each (Sharpe + APR)
+
+
+#### Bollinger Bands Strategy:  
+_Utilizes USO and GLD historical data from NASDAQ_
+> Bollinger Bands Strategy/Returns/Statistics (Sharpe + APR)
+
