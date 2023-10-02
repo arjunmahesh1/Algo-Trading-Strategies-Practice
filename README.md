@@ -47,4 +47,6 @@ _Utilizes USO and GLD historical data from NASDAQ_
 _Utilizes hourly DOW Jones data_
 Intra-Day mean reversion strategy  
 Unlimited capital/No transaction costs, signal noise from open/preopen difference
+> Buy-on-Gap Strategy + Statistics
+> Short-on-Gap Strategy + Statistics
 
