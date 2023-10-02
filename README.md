@@ -42,3 +42,9 @@ _Utilizes USO and GLD historical data from NASDAQ_
 _Utilizes USO and GLD historical data from NASDAQ_
 > Bollinger Bands Strategy/Returns/Statistics (Sharpe + APR)
 
+
+#### Buy/Short-on-Gap Strategy:
+_Utilizes hourly DOW Jones data_
+Intra-Day mean reversion strategy  
+Unlimited capital/No transaction costs
+
