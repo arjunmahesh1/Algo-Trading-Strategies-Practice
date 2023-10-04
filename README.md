@@ -50,3 +50,8 @@ Unlimited capital/No transaction costs, signal noise from open/preopen differenc
 > Buy-on-Gap Strategy + Statistics
 > Short-on-Gap Strategy + Statistics
 
+
+#### Cross-Sectional Mean Reversion Strategy:
+_Utilizes DOW Jones data_
+Close-to-close
+> Linear Long-Short Model + Statistics
