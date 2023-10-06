@@ -55,3 +55,8 @@ Unlimited capital/No transaction costs, signal noise from open/preopen differenc
 _Utilizes DOW Jones data_
 Close-to-close
 > Linear Long-Short Model + Statistics
+
+
+#### Trading Currency Cross-Rates
+_Utilizes USDCAD and AUDUSD data from NASDAQ_
+> Pair Trading USD.AUD v. USD.CAD Using the Johansen Eigenvector
