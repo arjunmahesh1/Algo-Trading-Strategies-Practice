@@ -20,7 +20,7 @@ Impractical Assumptions:
  - Look-ahead bias (half_life extracted from in-sample data in 'Mean Reversion and Stationarity')
 
 #### Cointegration:
-_Utilizes EWA and EWC ETF historical data from NASDAQ, IGE ETF data for 3-way_
+_Utilizes EWA and EWC ETF historical data from Nasdaq, IGE ETF data for 3-way_
 > Tests Demonstrated:
 > - CADF Test
 > - Johansen Test
@@ -30,7 +30,7 @@ _Utilizes EWA and EWC ETF historical data from NASDAQ, IGE ETF data for 3-way_
 
 
 #### Trading Pairs Comparison:  
-_Utilizes USO and GLD historical data from NASDAQ_
+_Utilizes USO and GLD historical data from Nasdaq_
 > Compared:
 > - Spread (Strategy + Returns)
 > - Log Spread (Strategy + Returns)
@@ -39,7 +39,7 @@ _Utilizes USO and GLD historical data from NASDAQ_
 
 
 #### Bollinger Bands Strategy:  
-_Utilizes USO and GLD historical data from NASDAQ_
+_Utilizes USO and GLD historical data from Nasdaq_
 > Bollinger Bands Strategy/Returns/Statistics (Sharpe + APR)
 
 
@@ -84,5 +84,5 @@ _US Treasury Futures Data_
 
 
 #### Future v. ETF Arbitrage:
-_USO, CLE ETF data from NASDAQ, CL Futures Data from Investing.com_
+_USO, CLE ETF data from Nasdaq, CL Futures Data from Investing.com_
 > Extracting Roll Returns through Future v. ETF Arbitrage
