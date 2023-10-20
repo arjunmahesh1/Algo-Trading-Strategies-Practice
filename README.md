@@ -57,27 +57,27 @@ Close-to-close
 > Linear Long-Short Model + Statistics
 
 
-#### Trading Currency Cross-Rates
+#### Trading Currency Cross-Rates:
 _Utilizes USDCAD and AUDUSD data from NASDAQ_
 > Pair Trading USD.AUD v. USD.CAD Using the Johansen Eigenvector
 
 
-#### High-Frequency Index Arbitrage
+#### High-Frequency Index Arbitrage:
 _Universe of DOW Jones Data_
 > UNDER CONSTRUCTION
 
 
-#### Spot Roll Returns
+#### Spot Roll Returns:
 _Futures Data from Investing.com_
 > UNDER CONSTRUCTION
 
 
-#### Calendar Spreads
+#### Calendar Spreads:
 _Futures Data from Investing.com_
 > UNDER CONSTRUCTION
 
 
-#### Time Series Momentum
+#### Time Series Momentum:
 _US Treasury Futures Data_
 > Finding Correlations between Returns of Different Time Frames (TU)
 > Equity Curve
