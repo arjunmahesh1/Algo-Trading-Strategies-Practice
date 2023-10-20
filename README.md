@@ -83,3 +83,6 @@ _US Treasury Futures Data_
 > Equity Curve
 
 
+#### Future v. ETF Arbitrage:
+_USO, CLE ETF data from NASDAQ, CL Futures Data from Investing.com_
+> Extracting Roll Returns through Future v. ETF Arbitrage
