@@ -86,3 +86,8 @@ _US Treasury Futures Data_
 #### Future v. ETF Arbitrage:
 _USO, CLE ETF data from Nasdaq, CL Futures Data from Investing.com_
 > Extracting Roll Returns through Future v. ETF Arbitrage
+
+
+#### Opening Gap Strategy:
+_FSTX data from Yahoo Finance_
+> Intraday Opening Gap Strategy
