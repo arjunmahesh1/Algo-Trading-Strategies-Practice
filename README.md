@@ -60,3 +60,26 @@ Close-to-close
 #### Trading Currency Cross-Rates
 _Utilizes USDCAD and AUDUSD data from NASDAQ_
 > Pair Trading USD.AUD v. USD.CAD Using the Johansen Eigenvector
+
+
+#### High-Frequency Index Arbitrage
+_Universe of DOW Jones Data_
+> UNDER CONSTRUCTION
+
+
+#### Spot Roll Returns
+_Futures Data from Investing.com_
+> UNDER CONSTRUCTION
+
+
+#### Calendar Spreads
+_Futures Data from Investing.com_
+> UNDER CONSTRUCTION
+
+
+#### Time Series Momentum
+_US Treasury Futures Data_
+> Finding Correlations between Returns of Different Time Frames (TU)
+> Equity Curve
+
+
