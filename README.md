@@ -1,6 +1,6 @@
 # algo-trading-strategies-practice
 
-Practice from "Algorithmic Trading: Winning Strategies and Their Rationale". Ernest P. Chan. © 2013 Ernest P. Chan. Published 2013 by John Wiley & Sons, Inc.
+Practice in Python from "Algorithmic Trading: Winning Strategies and Their Rationale". Ernest P. Chan. © 2013 Ernest P. Chan. Published 2013 by John Wiley & Sons, Inc.
 
 #### Mean Reversion and Stationarity:  
 _Utilizes EUR_USD data from https://sdw.ecb.europa.eu/quickview.do;jsessionid=D2CD02A53B09A6A89782BD21F16BC2A6?SERIES_KEY=120.EXR.D.USD.EUR.SP00.A_
